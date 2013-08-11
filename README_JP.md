@@ -10,8 +10,8 @@
 ・使用しているページ：埋め込みの動画を表示する。
 という形で切り替えたい時に使用します。
 私のブログで表示しているもので例を挙げますと、
-・[使用していないページ](http://hs202sa.ddo.jp/myComfBlog/?layout=mobileS&id=kamCLawKh)
-・[使用しているページ](http://hs202sa.ddo.jp/myComfBlog/?layout=html5&id=kamCLawKh)
+・[使用していないページ](http://hs202sa.dip.jp/myComfBlog/?layout=mobileS&id=kamCLawKh)
+・[使用しているページ](http://hs202sa.dip.jp/myComfBlog/?layout=html5&id=kamCLawKh)
 ※Chromeブラウザ推奨
 この２つは同じデータを表示していますが、後者は
 埋め込み動画に切り替わっているのがわかると思います。
@@ -23,7 +23,7 @@
 ・画像タグ→別の画像への差し替え
 ・画像タグ→サイズを変更
 
-[デモページ](http://hs202sa.ddo.jp/DemoPage/jquery.EmbeddingOuterPages/)
+[デモページ](http://hs202sa.dip.jp/DemoPage/jquery.EmbeddingOuterPages/)
 ※Youtube/NicoNico動画/Vimeoの差し替えデモ（ボタンのクリックアクションで差し替える）
 
 ##ファイル構成
